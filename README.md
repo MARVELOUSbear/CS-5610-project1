@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://seantanty.github.io/CS-5610-project1/index.html">
-    <img src="https://drive.google.com/uc?export=view&id=16q_tfxofJm56KcyXNGMMzLC78FwZSJfP" alt="Sean's logo" width="200" height="165">
+    <img src="https://imgur.com/qGMD5LZ" alt="Sean's logo" width="200" height="165">
   </a>
 </p>
 
