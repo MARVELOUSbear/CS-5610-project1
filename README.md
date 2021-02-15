@@ -1,6 +1,6 @@
 # CS-5610-project1
 
-##Used the below two templates:
+## Used the below two templates:
 
 1. https://startbootstrap.com/theme/resume
 
@@ -9,4 +9,4 @@
 
 ##Slides: https://docs.google.com/presentation/d/15TQaOsgwKcBNrYzhxT6H1ipWbUFTjQ2aTgAhiriORNE/edit?usp=sharing
 
-##Video demonstrating: 
+## Video demonstrating: 
