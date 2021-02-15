@@ -37,7 +37,7 @@ https://seantanty.github.io/CS-5610-project1/index.html
 
 https://johnguerra.co/classes/webDevelopment_spring_2021/
 
-## Used the below two templates:
+## Template used
 
 1. https://startbootstrap.com/theme/resume
 
