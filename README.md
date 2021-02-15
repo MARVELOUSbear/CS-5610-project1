@@ -1,7 +1,6 @@
 # CS-5610-project1
 
 Used the below two templates:
-
 https://startbootstrap.com/theme/resume
 
 https://tutorialzine.com/2018/03/3-amazing-bootstrap-4-gallery-templates
