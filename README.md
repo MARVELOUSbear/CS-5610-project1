@@ -6,7 +6,7 @@
 
 <h1 align="center">Yongliang (Sean) Tan's Home Page</h1>
 
-## Project objective
+## Project Objective
 
 This project is served as project homework 1 of Northeastern University's Spring 2021's CS-5610 class. You could find the class link in below class link section.
 
@@ -20,24 +20,24 @@ I have designed a simple website with two pages. The first page is a resume styl
 
 ![Image](screenshot2.PNG)
 
-## Tech requirements
+## Tech Requirements
 
 Modern Browser(Chrome, FireFox, etc.), command line tool
 
-## How to install/use
+## How to Install/Use
 1. Clone this repo to your own computer.
 2. Use command line tool, cd to the repo's path.
 3. Use a local http server tool like Reload or Python to run http-server, the website is now locally run.
 
-## Page link
+## Page Link
 
 https://seantanty.github.io/CS-5610-project1/index.html
 
-## CS-5610 class link
+## CS-5610 Class Link
 
 https://johnguerra.co/classes/webDevelopment_spring_2021/
 
-## Template used
+## Template Used
 
 1. https://startbootstrap.com/theme/resume
 
@@ -48,6 +48,6 @@ https://johnguerra.co/classes/webDevelopment_spring_2021/
 
 https://docs.google.com/presentation/d/15TQaOsgwKcBNrYzhxT6H1ipWbUFTjQ2aTgAhiriORNE/edit?usp=sharing
 
-## Video demonstrating: 
+## Video Demonstrating: 
 
 https://youtu.be/45F1RzMBYOU
