@@ -1,4 +1,20 @@
-# CS-5610-project1
+# Yongliang (Sean) Tan's Home Page
+
+## Project objective
+
+## Screenshots
+
+## Tech requirements
+
+## How to install/use
+
+## Page link
+
+https://seantanty.github.io/CS-5610-project1/index.html
+
+## CS-5610 class link
+
+https://johnguerra.co/classes/webDevelopment_spring_2021/
 
 ## Used the below two templates:
 
