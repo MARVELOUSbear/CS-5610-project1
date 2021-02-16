@@ -24,6 +24,18 @@ function MainModule() {
     "Lake Tahoe Heavenly Ski Resort",
     "Lake Tahoe Heavenly Ski Resort",
   ];
+  const categoryList = [
+    "food",
+    "food",
+    "food",
+    "food",
+    "food",
+    "ski",
+    "ski",
+    "ski",
+    "ski",
+    "ski",
+  ];
   const commentList = [
     "https://www.yelp.com/biz/ramen-parlor-san-mateo",
     "https://www.yelp.com/biz/gyu-kaku-japanese-bbq-cupertino",
@@ -59,24 +71,26 @@ function MainModule() {
       let imgTag = document.createElement("img");
       imgTag.setAttribute("class", "card-img-top");
       imgTag.setAttribute("src", "images/" + imgUrl);
-      if (index < 5) {
-        imgTag.setAttribute("alt", "Food Image");
-      } else {
-        imgTag.setAttribute("alt", "Ski Image");
-      }
+      imgTag.setAttribute(
+        "alt",
+        categoryList[index].charAt(0).toUpperCase() +
+          categoryList[index].slice(1) +
+          " Image"
+      );
+
       aTag.appendChild(imgTag);
 
       let divIn = document.createElement("div");
       divIn.setAttribute("class", "card-body");
       divMid.appendChild(divIn);
 
-      if (index < 5) {
+      if (categoryList[index] === "food") {
         let aTag2 = document.createElement("a");
         aTag2.href = commentList[index];
         let linkText = document.createTextNode(titleList[index]);
         aTag2.appendChild(linkText);
         divIn.appendChild(aTag2);
-      } else {
+      } else if (categoryList[index] === "ski") {
         let smTitle = document.createElement("h6");
         let smTitleText = document.createTextNode(titleList[index]);
         smTitle.appendChild(smTitleText);
